@@ -1,1 +1,3 @@
-# face_detection_google_cloud_vision_API
+# Face Detection Using Cloud Vision API in Google Cloud Platform via Python
+
+Please refer to my blog article for setting up Compute Engine instance in the Google Cloud and enable Vision API
